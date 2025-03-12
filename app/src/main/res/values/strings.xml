@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Textbook Manager</string>
+    <string name="add_book">Add book</string>
+</resources>

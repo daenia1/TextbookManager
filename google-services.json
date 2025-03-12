@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "486840963185",
+    "project_id": "textbook-manager-d3754",
+    "storage_bucket": "textbook-manager-d3754.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486840963185:android:91762d3fda63e862814bd0",
+        "android_client_info": {
+          "package_name": "com.example.textbookmanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdiCgAM663KxJGVANZd5CRH5WMc5ehHh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
